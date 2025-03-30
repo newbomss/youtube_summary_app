@@ -1,4 +1,7 @@
 
 streamlit
-beautifulsoup4
+google-api-python-client
 requests
+beautifulsoup4
+python-dotenv
+flask
